@@ -2,7 +2,7 @@
 
 ### How to play
 
-Open [TicTacToe.jar](TicTacToe.jar) and select the board size you want to play with. You (red X) will be playing with a computer (blue O). The computer is very simply made so don't be surprised why you are always winning :p.
+Open [TicTacToe.jar](TicTacToe.jar) and select the board size you want to play with. You (red X) will be playing with a computer (blue O). The computer is very simply made so don't be surprised why you are always winning :p. If the board is larger than 3x3 and your streaks are blocked at one end by the opponent, then you will need 4 marks to win.
 
 ### Background story
 
